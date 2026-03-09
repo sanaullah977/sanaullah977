@@ -1,8 +1,10 @@
-# Hi 👋 I'm Sana Ullah
 
-💻 Junior Web Developer from Bangladesh
-🚀 Passionate about building modern web applications
-🌱 Currently learning **Next.js, Full Stack Development & MongoDB**
+
+<h1 align="center">Hi 👋, I'm Sana Ullah</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Junior+Web+Developer;React+%7C+Next.js+Developer;Learning+Full+Stack+Development;MongoDB+%7C+Node.js+Enthusiast" />
+</p>
 
 ---
 
